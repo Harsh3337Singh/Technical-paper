@@ -59,7 +59,7 @@ Graph databases use nodes to store data entities and edges to store relationship
 
 ## References
 
-[NoSQL MongoDB](https://www.mongodb.com/nosql-explained)
-[SQL vs NoSQL](https://www.imaginarycloud.com/blog/sql-vs-nosql/)
-[NoSQL Amazon](https://aws.amazon.com/nosql/)
-[NoSQL tutorial](https://www.guru99.com/nosql-tutorial.html)
+* [NoSQL MongoDB](https://www.mongodb.com/nosql-explained)
+* [SQL vs NoSQL](https://www.imaginarycloud.com/blog/sql-vs-nosql/)
+* [NoSQL Amazon](https://aws.amazon.com/nosql/)
+* [NoSQL tutorial](https://www.guru99.com/nosql-tutorial.html)
