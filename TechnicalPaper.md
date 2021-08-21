@@ -17,7 +17,7 @@ NoSQL refers to non-relational databases, also known as “**not only SQL**”, 
 
 The document database is a non-relational database designed to store and query data in the form of JSON-like documents.
 
-> Due to its flexibility, the document database is very suitable for collecting and storing any type of data.
+ Due to its flexibility, the document database is very suitable for collecting and storing any type of data.
 
 ```
 [
@@ -36,26 +36,26 @@ The document database is a non-relational database designed to store and query d
 
 A key-value database stores data as a set of key-value pairs, where key is a unique identifier. Both keys and values ​​can be anything from simple objects to complex compound objects.
 
-> The key-value database provides high-speed memory access for handling many small, continuous reads and writes.
+ The key-value database provides high-speed memory access for handling many small, continuous reads and writes.
 
 ### 3. Wide-column stores
 
 The wide-column store uses the modified table model to process data. It uses key rows that can be mapped to one or more dynamic columns to store data. These rows are flexible and column data can vary from row to row. Wide column store is used to store large amounts of data.
 
-> It is used when you need a large data set, especially if the columns of all rows are not always the same.
+ It is used when you need a large data set, especially if the columns of all rows are not always the same.
 
 ### 4. Graph databases
 
 Graph databases use nodes to store data entities and edges to store relationships between entities. There is no limit to the number and types of relationships a node can have.
 
-> Graph databases are used for highly interconnected data. The simplest use case for graph databases is social media.
+ Graph databases are used for highly interconnected data. The simplest use case for graph databases is social media.
 
 ## Choosing NoSQL over SQL
 
-> - NoSQL is faster than SQL.
-> - NoSQL database has a flexible data model.
-> - Easy for developers to work with.
-> - It is designed for storing and analyzing structured, semi-structured and unstructured data in one database.
+ - NoSQL is faster than SQL.
+ - NoSQL database has a flexible data model.
+ - Easy for developers to work with.
+ - It is designed for storing and analyzing structured, semi-structured and unstructured data in one database.
 
 ## References
 
